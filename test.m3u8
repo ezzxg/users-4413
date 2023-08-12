@@ -5,10 +5,10 @@
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",BANDWIDTH=4357954,AVERAGE-BANDWIDTH=3248600,SCORE=5.0,FRAME-RATE=60.000,AUDIO="group_audio"
 https://videodelivery.net/a39e21e6412aa3432cca275da28fa894/manifest/stream_t1_r1080001.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2",BANDWIDTH=2222714,AVERAGE-BANDWIDTH=1318665,SCORE=4.0,FRAME-RATE=60.000,AUDIO="group_audio"
-https://videodelivery.net/a39e21e6412aa3432cca275da28fa894/manifest/stream_t1_r1080001.m3u8stream_t1_r720001.m3u8
+https://videodelivery.net/a39e21e6412aa3432cca275da28fa894/manifest/tream_t1_r720001.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=854x480,CODECS="avc1.64001e,mp4a.40.2",BANDWIDTH=1145952,AVERAGE-BANDWIDTH=769487,SCORE=3.0,FRAME-RATE=60.000,AUDIO="group_audio"
-https://videodelivery.net/a39e21e6412aa3432cca275da28fa894/manifest/stream_t1_r1080001.m3u8stream_t1_r480001.m3u8
+https://videodelivery.net/a39e21e6412aa3432cca275da28fa894/manifest/stream_t1_r480001.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=640x360,CODECS="avc1.4d401e,mp4a.40.2",BANDWIDTH=776469,AVERAGE-BANDWIDTH=565383,SCORE=2.0,FRAME-RATE=60.000,AUDIO="group_audio"
-https://videodelivery.net/a39e21e6412aa3432cca275da28fa894/manifest/stream_t1_r1080001.m3u8stream_t1_r360001.m3u8
+https://videodelivery.net/a39e21e6412aa3432cca275da28fa894/manifest/stream_t1_r480001.m3u8stream_t1_r360001.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=426x240,CODECS="avc1.42c015,mp4a.40.2",BANDWIDTH=599965,AVERAGE-BANDWIDTH=459264,SCORE=1.0,FRAME-RATE=60.000,AUDIO="group_audio"
-https://videodelivery.net/a39e21e6412aa3432cca275da28fa894/manifest/stream_t1_r1080001.m3u8stream_t1_r240001.m3u8
+https://videodelivery.net/a39e21e6412aa3432cca275da28fa894/manifest/stream_t1_r240001.m3u8
